@@ -1,0 +1,7 @@
+# Windows system files
+Thumbs.db
+.DS_Store
+
+# Python cache (optional)
+__pycache__/
+*.pyc

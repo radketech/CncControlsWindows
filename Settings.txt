@@ -1,0 +1,8 @@
+# Path to the game launcher
+game_root=C:\Program Files (x86)\Steam\steamapps\common\CnCRemastered
+
+# Steam IDs to avoid (one per line)
+bad_opponent_id=76561199861361235
+bad_opponent_id=76561198013116333
+bad_opponent_id=76561198024709287
+bad_opponent_id=76561198788270769
