@@ -5,3 +5,6 @@ Thumbs.db
 # Python cache (optional)
 __pycache__/
 *.pyc
+
+# Runtime logs
+*.log
